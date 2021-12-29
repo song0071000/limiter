@@ -48,7 +48,7 @@ kubectl apply -f "https://raw.githubusercontent.com/slime-io/limiter/master/inst
 为此我们提供了一个简单的SlimeBoot安装清单，使用以下命令进行安装。
 
 ```
-kubectl apply -f "https://raw.githubusercontent.com/slime-io/slime-io/limiter/master/install/limiter.yaml"
+kubectl apply -f "https://raw.githubusercontent.com/slime-io/limiter/master/install/limiter.yaml"
 ```
 
 清单的具体内容如下
